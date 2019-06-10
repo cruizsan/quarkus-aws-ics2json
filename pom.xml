@@ -39,10 +39,15 @@
       <artifactId>rest-assured</artifactId>
       <scope>test</scope>
     </dependency>
+<!--    <dependency>-->
+<!--      <groupId>org.mnode.ical4j</groupId>-->
+<!--      <artifactId>ical4j</artifactId>-->
+<!--      <version>3.0.6</version>-->
+<!--    </dependency>-->
     <dependency>
-      <groupId>org.mnode.ical4j</groupId>
-      <artifactId>ical4j</artifactId>
-      <version>3.0.6</version>
+      <groupId>net.sf.biweekly</groupId>
+      <artifactId>biweekly</artifactId>
+      <version>0.6.3</version>
     </dependency>
     <dependency>
       <groupId>io.quarkus</groupId>
